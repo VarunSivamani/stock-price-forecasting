@@ -1,0 +1,16 @@
+# Runtime (Streamlit app). Python 3.9–3.11 recommended.
+streamlit
+pandas
+pandas_datareader
+yfinance
+numpy
+matplotlib
+plotly
+prophet
+scikit-learn
+tensorflow
+
+# Training / notebooks only (uncomment if needed):
+# jupyter
+# notebook
+# ipykernel
